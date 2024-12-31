@@ -1,0 +1,10 @@
+# Ignore the results directory
+results/
+lda_model/
+
+# Ignore other common files and directories
+*.log
+*.tmp
+*.bak
+__pycache__/
+*.pyc

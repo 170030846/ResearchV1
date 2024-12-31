@@ -1,0 +1,15 @@
+praw
+textblob
+nltk
+gensim
+networkx
+matplotlib
+vaderSentiment
+transformers
+
+nltk
+praw
+gensim
+matplotlib
+wordcloud
+pyLDAvis
